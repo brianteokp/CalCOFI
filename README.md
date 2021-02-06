@@ -1,6 +1,7 @@
 # CalCOFI
 Univariate Linear Regression Analysis
 (Based on teachings from Professor Andrew Ng!)
+Analysis Performed with GNU Octave 5.2.0
 
 Problems:
 Find the optimal parameters to model the linear relationship between salinity (input) and water temperature (output)
